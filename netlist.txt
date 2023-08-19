@@ -1,0 +1,11 @@
+https://universe.roboflow.com/ahmet-emre/netlistgenerator
+https://universe.roboflow.com/ahmet-emre/netlistgenerator
+https://universe.roboflow.com/zavrsni/circuitrecv2
+https://universe.roboflow.com/development-tohnm/cghd-1152
+https://universe.roboflow.com/ahmet-emre/netlistdeneme2
+https://universe.roboflow.com/ahmet-emre/netlistproject_v2
+
+https://universe.roboflow.com/project-ezrec/circuit-202000
+
+https://universe.roboflow.com/rp-project/circuit-recognition
+
